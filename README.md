@@ -3,6 +3,7 @@ Very basic vue/laravel todo list app. The server is the laravel back-end structu
 
 ## Installation
 Server -> Set up your db in the .env file and run migrations. 
+##
 Client -> install node modules including bootsrap plus install axios.
 
 ```bash
@@ -11,7 +12,7 @@ npm install --save axios
 Run the app from the client side
 
 ```bash
-npm irun dev
+npm run dev
 ```
 
 
