@@ -1,4 +1,4 @@
-# Vuew-Todo
+# Vue-Todo
 Very basic vue/laravel todo list app. The server is the laravel back-end structure while the client is the vue front-end structure.
 
 ## Installation
